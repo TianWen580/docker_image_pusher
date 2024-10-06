@@ -1,1 +1,1 @@
-openmmlab/mmdeploy
+openmmlab/mmdeploy:gpu
