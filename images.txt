@@ -1,1 +1,1 @@
-mmdeploy:gpu
+mmdeploy
